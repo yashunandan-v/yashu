@@ -1,7 +1,0 @@
-stack = Stack()
-stack.push(10)
-stack.push(20)
-stack.push(33)
-stack.push(40)
-print(stack.pop()) 
-print(stack.pop())
